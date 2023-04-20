@@ -7,7 +7,7 @@ public class EjemploArrayList05 {
     Scanner s=new Scanner(System.in);
     
     ArrayList<String> a =new ArrayList<String>();
-    
+    a.add("rosa");
     a.add("rojo");
     a.add("verde");
     a.add("azul");
